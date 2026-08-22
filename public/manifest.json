@@ -1,0 +1,21 @@
+{
+  "name": "四國冒險之旅 2026",
+  "short_name": "四國之旅",
+  "description": "專為四國 8 天 7 夜設計的高階旅行規劃工具。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9F6F0",
+  "theme_color": "#F9F6F0",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
