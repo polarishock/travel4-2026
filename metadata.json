@@ -1,0 +1,8 @@
+{
+  "name": "四國冒險之旅 2026",
+  "description": "專為四國 8 天 7 夜設計的高階旅行規劃工具，採用 iOS 毛玻璃設計，支援離線存取行程。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
